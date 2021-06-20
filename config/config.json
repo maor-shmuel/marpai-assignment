@@ -1,5 +1,5 @@
 {
-  "number_of_rows_per_iteration": 100,
+  "number_of_rows_per_iteration": 500,
   "input_csv_file": "home_excercise_data.csv",
   "sqlite_db_file": "./sqlite.db",
   "sql_script_file": "sql/create_tables.sql"
