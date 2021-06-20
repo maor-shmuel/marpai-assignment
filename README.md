@@ -150,4 +150,12 @@ python marpai_task.py
     ```
 - sql/create_tables.sql - holds the sql statements to create the tables
   I also place drop statements for this exercise so every run starts with a fresh db
-  
+ 
+
+#### Tests:
+To execute tests:
+``` shell
+pip install pytest
+pytest tests/test_csv_etl.py
+```
+ 

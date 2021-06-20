@@ -1,0 +1,7 @@
+{
+  "number_of_rows_per_iteration": 100,
+  "input_csv_file": "tests/test_data.csv",
+  "sqlite_db_file": "tests/test_sqlite.db",
+  "sql_script_file": "sql/create_tables.sql",
+  "errors_file_location": "tests/"
+}

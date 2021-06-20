@@ -1,0 +1,11 @@
+member_first_name,member_last_name,diagnosis_code,diagnosis_description,procedure_code,procedure_description,provider_id,provider_org_name,provider_last_name,service_date
+Bad,Date,V011,Tuberculosis contact,S0621,Routine ophthalmological exa,1669475612,nan,TROTCHIE,23 MAOR 20
+Good,Date,V011,Tuberculosis contact,S0621,Routine ophthalmological exa,1669475612,nan,TROTCHIE,23 May 20
+Bad,LongDiagnosisCode,S52515S,"Nondisp fx of left radial styloid process, sequela",49180,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
+Good,DiagnosisCode_5,S5251,"Nondisp fx of left radial styloid process, sequela",49180,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
+Good,DiagnosisCode_4,S525,"Nondisp fx of left radial styloid process, sequela",49180,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
+Good,DiagnosisCode_3,S52,"Nondisp fx of left radial styloid process, sequela",49180,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
+Good,DiagnosisCode_2,S5,"Nondisp fx of left radial styloid process, sequela",49180,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
+Good,DiagnosisCode_1,S,"Nondisp fx of left radial styloid process, sequela",49180,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
+Bad,DiagnosisCodeNonAlphaNumeric,!@#$@,"Nondisp fx of left radial styloid process, sequela",49180,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
+Bad,LongProcedureCode,A1234,"Nondisp fx of left radial styloid process, sequela",491801234,BIOPSY ABDOMINAL MASS,1508869736,nan,HARDEBECK,24 September 17
