@@ -1,4 +1,6 @@
-#MARPAI HOME ASSIGNMENT:
+MARPAI HOME ASSIGNMENT
+
+Author: Maor Shmuel
 
 ### Clarifications:
 
