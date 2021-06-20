@@ -1,2 +1,2 @@
-pandas
-pandas_schema
+pandas==1.2.4
+pandas-schema==0.3.5
